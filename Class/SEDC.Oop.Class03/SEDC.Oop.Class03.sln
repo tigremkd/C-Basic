@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class03.Arrays", "SEDC.Oop.Class03.Arrays\SEDC.Oop.Class03.Arrays.csproj", "{ED7D9756-192E-456B-A214-7C138C4C0B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class03.Loops", "SEDC.Oop.Class03.Loops\SEDC.Oop.Class03.Loops.csproj", "{DA598DDC-06B3-465D-BCAC-BDCF02AB31EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7D9756-192E-456B-A214-7C138C4C0B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7D9756-192E-456B-A214-7C138C4C0B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7D9756-192E-456B-A214-7C138C4C0B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7D9756-192E-456B-A214-7C138C4C0B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA598DDC-06B3-465D-BCAC-BDCF02AB31EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA598DDC-06B3-465D-BCAC-BDCF02AB31EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA598DDC-06B3-465D-BCAC-BDCF02AB31EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA598DDC-06B3-465D-BCAC-BDCF02AB31EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6069D2-EDA3-4898-8E69-DB4066C04C4C}
+	EndGlobalSection
+EndGlobal
